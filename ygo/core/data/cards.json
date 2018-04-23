@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "version" : "0.0.1",
+        "keylength": 8,
+        "shortkeys": true
+    },
+    "41546": {
+        "name": "D/D Savant Thomas",
+        "type": "monster",
+        "lvl": 8,
+        "attr": "dark",
+        "add": ["fiend", "pendulum", "effect"],
+        "desc": "You can target 1 \"D/D\" card in your Pendulum Zone; destroy that card, and if you do, Special Summon 1 Level 8 \"D/D/D\" monster from your Deck in Defense Position, but for the rest of this turn, its effects (if any) are negated, and any battle damage your opponent takes becomes halved. You can only use this effect of \"D/D Savant Thomas\" once per turn.",
+        "pend": "During your Main Phase: You can add 1 face-up \"D/D\" Pendulum Monster from your Extra Deck to your hand. You can only use this effect of \"D/D Savant Thomas\" once per turn.",
+        "stat": [1800, 2600],
+        "scale": 6
+    },
+    "102380": {
+        "name": "Lava Golem",
+        "type": "monster",
+        "lvl": 8,
+        "attr": "fire",
+        "add": ["fiend", "effect"],
+        "desc": "Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent's side of the field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. During each of your Standby Phases: Take 1000 damage.",
+        "pend": {},
+        "stat": [3000, 2500],
+        "scale": {}
+    },
+    "114932": {
+        "name": "Seismic Crasher",
+        "type": "monster",
+        "lvl": 3,
+        "attr": "earth",
+        "add": ["rock", "effect"],
+        "desc": "Twice per turn, you can send 1 face-up Continuous Spell or Continuous Trap Card you control to the Graveyard to inflict 500 damage to your opponent.",
+        "pend": {},
+        "stat": [1400, 300],
+        "scale": {}
+    }
+}
